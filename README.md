@@ -33,10 +33,6 @@ Frameworks<br/><br/>
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
-### Fall in love for
-
-![apple silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiloveyou&show_icons=true&theme=radical)
 
 <!--
