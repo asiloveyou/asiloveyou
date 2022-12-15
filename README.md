@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm novice developer yet with enthusiatic heart. <br/>
+I'm novice developer yet with enthusiastic heart. <br/>
 My interests are front-end development, graphics, web-gl, user interface, human-computer interaction.<br/>
 Also, love to discuss about feasbility of new products and ideas.<br/>
 Hope to meet you again!<br/>
